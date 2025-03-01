@@ -27,9 +27,9 @@ export const PROFILE_DATA = {
       "Teamwork",
       "Problem Solving"
   ],
-  email: "almasurantor@gmail.com", // Replace with your actual email
-  phone: "+1 (929) 562-8030", // Replace with your actual phone number
-  website: "https://almasurantor.com", // Replace with your actual website
+  email: "almasurantor@gmail.com", 
+  phone: "+1 (929) 562-8030", 
+  website: "https://almasurantor.github.io/Portfolio/"
 };
 
 export const SKILLS = [

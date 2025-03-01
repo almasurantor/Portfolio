@@ -9,7 +9,7 @@ const Navbar = () => {
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
   };
-
+  
   return (
     <>
        {isMenuOpen && <MobileNavbar isOpen={isMenuOpen} setIsMenuOpen= {setIsMenuOpen}/>}
